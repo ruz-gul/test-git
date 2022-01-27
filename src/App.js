@@ -18,6 +18,7 @@ function App() {
           Test Github Desktop
         </a>
       </header>
+      <span>Buni milad yazp</span>
     </div>
   );
 }
